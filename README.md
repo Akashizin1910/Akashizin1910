@@ -19,4 +19,4 @@ Após terminar a criação do seu currículo acessa o site chamado
 "github.com"
 Link: github.com
 
-Va
+Vá em "Código" 
