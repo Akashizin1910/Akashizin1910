@@ -20,4 +20,5 @@ Após terminar a criação do seu currículo acessa o site chamado
 Link: github.com
 
 1 - Vá em "Código"
-2 - Clique nas 3 barrinhas
+2 - Clique nos 3 pontinhos
+3 - Clique em "Criar Arquivo"
