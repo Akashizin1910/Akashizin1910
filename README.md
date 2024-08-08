@@ -19,4 +19,5 @@ Após terminar a criação do seu currículo acessa o site chamado
 "github.com"
 Link: github.com
 
-Vá em "Código" 
+1 - Vá em "Código"
+2 - Clique nas 3 barrinhas
